@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/img_3611.jpeg
+heading: Milwaukee's favorite rolled ice cream
+subheading: 'Rolled ice cream, Scooped Gelato, Drinks, and more!'
 mainpitch:
   title: Why Kaldi?!
   description: >
