@@ -5,17 +5,12 @@ image: /img/img_3611.jpeg
 heading: Milwaukee's favorite rolled ice cream
 subheading: 'Rolled ice cream, Scooped Gelato, Drinks, and more!'
 mainpitch:
-  title: Why Kaldi?!
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Brainfreeze Ice Cream
+  description: a
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We know our customers are unique, and so we have a variety of ice cream to
+  meet all our customers unique needs! From our signature rolled ice cream to
+  our refreshing slushies, we are sure you will enjoy our desserts!
 intro:
   blurbs:
     - image: /img/coffee.png
