@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+image: /img/img_3611_1920x1280.jpeg
 heading: Milwaukee's favorite rolled ice cream
 subheading: 'Rolled ice cream, Scooped Gelato, Drinks, and more!'
 mainpitch:
