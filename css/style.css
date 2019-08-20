@@ -1307,7 +1307,8 @@ a:hover {
 }
 /*-- header css End --*/
 /*-- slider css Start --*/
-.ck_slider_top_content h3 {
+.ck_slider_top_content h1,
+h3 {
   color: #fff;
   font-size: 50px;
   padding-top: 30px;
@@ -1451,7 +1452,7 @@ a:hover {
   line-height: 50px;
   text-align: center;
   background: #fff;
-  color: #ee495a;
+  color: #5f5e5d;
   margin-top: 30px;
   text-transform: capitalize;
   border: 1px solid transparent;
